@@ -1,0 +1,36 @@
+{
+  "name": "cedars-sinai",
+  "description": "Cedars Sinai Web",
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "../"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "assemble": "^0.23.0",
+    "autoprefixer": "^7.0.1",
+    "eslint": "^3.19.0",
+    "grunt": "^1.0.1",
+    "grunt-assemble": "^0.6.3",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^19.0.0",
+    "grunt-postcss": "^0.8.0",
+    "grunt-sass": "^2.0.0",
+    "grunt-sass-lint": "^0.2.2",
+    "load-grunt-tasks": "^3.5.2",
+    "sass-lint": "^1.10.2"
+  }
+}
